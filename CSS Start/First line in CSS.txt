@@ -1,0 +1,10 @@
+#FIRST LINE IN CSS
+
+
+-Creat a .css file inside your directory and add it to your HTML, and add to following line
+ to your css.
+EX:-   body{
+             background-color: red;
+           }
+
+-this will make your page background red.
