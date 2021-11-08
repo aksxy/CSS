@@ -1,0 +1,8 @@
+#CSS
+
+-Cascading Style Sheet
+-CSS describes how HTMl elements are to be displayed on screen, paper, or other media.
+-HTML is just an skeletal layout of a website we need css to design a website, add styles
+ to it and make it look beautiful.
+-CSS is optionl but is converts an off looking HTML page into a beautiful & responsive 
+ website.
