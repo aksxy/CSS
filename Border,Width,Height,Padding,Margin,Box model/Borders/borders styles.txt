@@ -1,0 +1,26 @@
+#CSS BORDERS
+
+-For giving your content any border use border-style property of css.
+Ex:-
+     #br{
+          border-style: solid;
+          }
+
+-you have some more property like solid as follows:-
+-none
+-hidden
+-dotted
+-dashed
+-solid
+-double
+-groove
+-ridge
+-inset
+-outset
+-dotted solid
+-hidden double dashed
+-none solid dotted dashed
+-innerit
+-initial
+-revert
+-unset
