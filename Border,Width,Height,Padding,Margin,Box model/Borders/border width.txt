@@ -1,0 +1,8 @@
+#BORDER WIDTH
+
+-This property chenge border size(thicnes).
+Ex:-
+     #border{
+             border-style: solid;
+             border-width: 3px;
+              }
