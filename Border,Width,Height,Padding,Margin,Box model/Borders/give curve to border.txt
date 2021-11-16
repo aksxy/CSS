@@ -1,0 +1,9 @@
+#CURVE 
+
+-If you want to give Curve in your border.
+-For giving curve in your border use border-radius property.
+Ex:-
+     #border{
+             border: 5px solid red;
+             border-radius: 10px;
+              }
