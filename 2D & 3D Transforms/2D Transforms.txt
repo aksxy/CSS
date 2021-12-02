@@ -1,0 +1,32 @@
+#2D TRANSFORMS
+
+
+-Using 2D Transformation you can rotait,move,scle and qube any element.
+-For this thinks you need to use transform property but this property can not work
+ with inline element.
+-Using display property you can chenge inline element to inline-block element.
+Ex:-
+     -we can tray transform property on (a) anchor tag.eg, 10deg
+ HTML:-
+         <body>
+         <div id="wrapper">
+         <a href="">Click Here</a>
+         </div>
+         </body>
+CSS:-
+       #wrapper{
+               padding: 20px;
+               margin: 20px;
+               }
+       a{
+        text-decoration: none;
+        background-color: lightcoral;
+        padding: 10px 20px;
+        color: white;
+   /*   display: inline-block;
+        transform: skew(20d);  */
+        }
+      a:hover{
+             display: inline-block;
+             transform: translate(50px,50px)
+             }
