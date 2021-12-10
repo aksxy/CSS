@@ -1,0 +1,23 @@
+#3D TRANSFORM
+
+
+-In this you have :-
+i) perspecrive-z ----- This is for 3D
+ii)perspecrive-x ----- this two we use
+iii)perspecrive-y ---- in 2D
+
+Ex:-
+    -In example we take 2 div and give here id like cover & content.
+CODE:-
+        #cover{
+              border:2px solid red;
+              height: 200px;
+              width: 200px;
+              margin: 150px;
+              }
+        #content{
+                height: 200px;
+                width: 200px;
+                background-color: yellow;
+                transform: perspective(300px) rotate3d(50px,30px,20px,30deg);   ----(x axis,y axis,z axis,angle)
+                }
