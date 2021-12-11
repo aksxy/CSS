@@ -1,0 +1,7 @@
+#SHORTCUT FOR BORDER STYLE
+
+-Shortcut for border style.
+Ex:-
+     #border{
+             border: 5px solid green;
+              }
