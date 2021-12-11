@@ -1,0 +1,29 @@
+#MARGIN
+
+-Margin is a outside of border and between the other element is gap, this gap is margin.
+-you give margin using margin-top property, you can use top,bottom,right,left.
+Ex:-   
+      body{
+           border: 5px solid red;
+            }
+      #mar{
+            margin: 25px;
+            }
+-in margin you give also minas(-) value, if you give (-) value then your element up
+ in another element.
+Ex:-
+     #mar{
+            margin: -25px;
+            }
+
+-Shortcut for giving marging
+Ex:-
+     #mar{
+            margin: 25px 12px 40px 60px; /*margin: top right bottom left*/
+            }
+
+-If you wnat to Center  content then use margin auto.
+Ex:-
+     #mar{
+            margin: auto;
+            }
