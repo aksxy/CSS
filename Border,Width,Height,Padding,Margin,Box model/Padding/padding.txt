@@ -1,0 +1,10 @@
+#PADDING
+
+-Padding is gap between content and border.
+-you can incrige and dicreg the gap between content and border using padding-top property.
+-you can use top,bottom,left,right.
+Ex:-
+      #div1{
+            border: 1px solid red;
+            padding-top: 50px;
+             }
