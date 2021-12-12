@@ -1,0 +1,9 @@
+#SHORTCUT FOR PADDING
+
+Ex:- 
+     #div1{
+            border: 1px solid red;
+            padding: 25px 50px 30px 40px;
+              /*      |    |     |     |
+                    top  right bottom  left */ 
+            }
