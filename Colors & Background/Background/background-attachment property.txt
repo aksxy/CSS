@@ -1,0 +1,9 @@
+#BACKGROUND-ATTACHMENT PROPERTY
+
+-Defines a scrollsrle/non=scrollare character of a background image.
+Ex:-
+     div2{
+          background-attachment: fixed;
+           }
+
+-Using fixe your image is stable and the content is move with thw scrollar.
