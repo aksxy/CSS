@@ -1,0 +1,19 @@
+#WIDTH AND HEIGHT
+
+-For giving width & height now it is work give the background color to your content then 
+ give hear width & height.
+-We can set eidth and height is css as follows:-
+Ex:-
+    #div1{
+           background-color: red;
+           width: 300px;
+           hight: 500px;
+           }
+
+-You can give width & height in presanteg(%) also, but it is acquvair size upon its
+ perent size if you give vale in parsenteg.
+Ex:-
+     .div1{
+           width: 30%;
+           hight: 50%;
+            }
