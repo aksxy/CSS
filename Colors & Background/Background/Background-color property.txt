@@ -1,0 +1,7 @@
+#BACKGROUND-COLOR PROPERTY
+
+-The CSS Background-color property specifies the background color of a container.
+Ex:-   
+       .bc{
+            backround-color: red;
+            }
