@@ -1,0 +1,14 @@
+#BACKGROUND-SIZE PROPERTY
+
+-Ther are some propertys for giveing size to background-image.
+i)cover   ----fits & no empty space remains.
+ii)contain  ----fits & image is full visible.
+iii)auto   ----display in original size.
+iv){{width}}  ---set width & height will be set automatically.
+v){{width}}{{hight}}   ----set width & height.
+Ex:-
+      body{
+            background-image: url("myimage.jpg");
+           background-repet: no-repeat;
+            background-size: cover;
+            }
