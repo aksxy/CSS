@@ -1,0 +1,22 @@
+#BACKGROUND-IMAGE PROPERTY
+
+-Used to set image as the background.
+-For set up image as background use background-image property and url attribut for image path.
+Ex:-
+      body{
+            background-image: url("myimage.jpg")
+            }
+
+-If your image is small size and content is big thr this image is respated in X & Y 
+ direction for full screen.
+-If you whant to control your background image repeteshan then use property background-repeat.
+
+i)repeat-x  ----Repeat in horizontal.
+ii)repeat-y ----Repeat in Vertical.
+iii)no-repeat  ----image is not repeat.
+
+Ex:-
+       body{
+            background-image: url("myimage.jpg")
+            background-repeat: repeat-x;
+             }
