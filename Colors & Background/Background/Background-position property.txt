@@ -1,0 +1,8 @@
+#BACKGROUND-POSITION PROPERTY
+
+
+-Set the sarting position of image.
+Ex:-
+       div1{
+             background-position: left top; /*right top,right bottom,left bottom*/
+             }
