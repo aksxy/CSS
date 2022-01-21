@@ -1,0 +1,9 @@
+#SHORTCUT TO ADD ALL PROPERTY
+
+-A single property to set multiple background propertes.
+Ex:- 
+      div3{
+           background: url("myimage.jpg") no-repeat fixed right top;           
+          }
+
+-one of the propertes can be missing given the others are in order.
