@@ -1,0 +1,18 @@
+#COLORS IN CSS
+
+-The CSS color property can be used to set the text color inside an element.
+Ex:-
+     p{   /*the text color will br red*/
+       color: red;
+       }
+
+-Similarly we can set color for differant elements.
+
+-TYPES  OF COLOR VALUES
+-Following are the most commonly used color values in css.
+i)RGB
+ii)RGBA
+iii)HEX
+iv)Predefine color names
+v)HSL
+vi)HSLA
