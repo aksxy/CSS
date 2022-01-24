@@ -1,0 +1,12 @@
+#HEX
+
+-#rrggbb
+-rr(red),gg(green),bb(blue)
+-Hexadecimal values between 00 and ff(same as decimal 0-255)
+-red:-#ff0000
+-black:-#000000
+-white:-#ffffff
+Ex:-  
+      p{
+        color: #ff00ff; 
+        }
