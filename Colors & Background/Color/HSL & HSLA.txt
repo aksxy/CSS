@@ -1,0 +1,17 @@
+#HSL
+
+-hsl(hue,saturation,lightness)
+-Hue is a degree on the color wheel from 0 to 360, 0 is red, 120 is green, & 240 is blue.
+-Saturation is a percentege vale, 0% is black, 50% is heither lignt or dark, 100% is white.
+Ex:- 
+      #color{
+             color: hsl(0,100%,50%);
+             }
+
+#HSLA
+
+-hsla(hue,saturation,lightness,alpha)
+-apha parameter is a number between 0.0(fully transparent) and 1.0(not treanparent at all).
+Ex:-  p{
+        color: hsla(0,100%,50%,0.5)  
+        }
