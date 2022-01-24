@@ -1,0 +1,8 @@
+#PREDEFINE COLOR NAMES
+
+
+-All Colors Namems by supportes browsers(red,greeg,black,blue.....)
+Ex:-
+      h1{
+         color: blue;
+         }
