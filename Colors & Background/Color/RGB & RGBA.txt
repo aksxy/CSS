@@ -1,0 +1,22 @@
+#RGB
+
+-rgb(red,green,blue)
+-color value between 0 and 255
+-black:- rgb(0,0,0)
+-white:- rgb(255,255,255)
+-red:- rgb(255,0,0)
+-green:- rgb(0,255,0)
+-blue:- rgb(0,0,255)
+Ex:-  
+     h1{
+         color: rgb(214,182,111)
+       }
+
+#RGBA
+
+-rgba(red,green,blue,alpha)
+-alpha paeameter us a number between 0.0(fully transparent) and 1.0(not transparent at all).
+Ex:-
+      body{
+           color: rgba(255,99,71,0.5)  
+           }
