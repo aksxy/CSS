@@ -1,0 +1,12 @@
+#HTML ID & CLASS ATTRIBUT
+
+-When an HTML element is given identifire for that element.
+-On the other hand, when an HTML element is given a class, it now belongs to that class
+ mor then one elements can belong to a single class but every element must have a unique
+ id(i/assignd).
+-we can add multiple classes to an element like this:-
+Ex:- 
+     <div id="first" class="c1 c2 c3">
+          --------
+          --------
+      </div>
