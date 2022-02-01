@@ -1,0 +1,46 @@
+#CSS SELECTERS
+
+-A css selecter is used to select an html element for styling.
+EX:-    
+         body {        /*this body name is selecter*/
+                color: green;  /*this is declaration*/
+                 }
+
+i)Element Selecter
+-It is used to select an element based off the tag name.
+Ex:-
+      h2 {            /*h2 now we select hedding 2*/
+           color: rad; 
+           }
+
+ii)Class Selecter
+-It is used to select an element with  a given class in html file and use ther class for selecting.
+Ex:- 
+      .red {     /* . is use to target class*/
+             color: red;
+              }
+
+iii)Id selecter
+-It is used to select on element whit given id, give id in html and used it.
+Ex:-
+      #first {      /* # is use to target id*/
+               color: blue;
+                }
+
+
+-We can grop selector like this:-
+Ex:-        h1,h2,h3,div{    
+                      color: red;
+                       }
+
+-We can use element calss as a selecter like this:-
+Ex:-       p.red{
+                 color: red;  
+                  }
+
+-* can be as a universal selector to select all the elements.
+Ex:-    
+        *{
+           marging: 0;
+           padding: 0;
+         }
