@@ -1,0 +1,4 @@
+#DOM
+
+-DOM stands for document object model when a page is loaded, the browser creates a DOM
+ of the page which is constructed as a tree of objects.
