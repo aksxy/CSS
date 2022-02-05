@@ -1,0 +1,36 @@
+#HOW TO WRITE AND ADD CSS
+
+-Ther are three ways to add or write CSS in to your HTMl file.
+i)Style tag
+ -Using <style> tag inyour HTML file, use This style tag in head tag of html.
+ Ex:-
+      <!DOCTYPE html>
+        <html>
+              <head>
+                      <style>
+                            h1 {
+                               color: red;
+                              }
+                      </style>
+              </head>
+     <body>
+             <h1>Use of Style tag</h1>
+     </body>
+  </html>
+
+
+ii)Inline CSS
+-Adding css using style attribute in your html tag.
+Ex:-
+       <!DOCTYPE html>
+        <html>
+              <head>
+                  
+              </head>
+     <body>
+             <h1 style="color: red;">Use of Style tag</h1>
+     </body>
+  </html>
+
+iii)External CSS
+-In this adding a stylesheet(.css) to HTML code using <link> tag in html head tag.
