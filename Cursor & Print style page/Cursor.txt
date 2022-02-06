@@ -1,0 +1,10 @@
+#CURSOR
+
+-Cheng your Cursor on if move the Cursor on your div for this use cursor property is 
+ stylesheet, and then give cursor types more values.
+Ex:-
+       div{
+          border: 1px solid red;
+         cursor: not-allowd;
+          }
+-not-allowd this is a one cursor type this types you find in google.
