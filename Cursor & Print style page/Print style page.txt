@@ -1,0 +1,17 @@
+#PRINT SPECIFIC STYLE
+
+-we will see how to desine web page for print.
+-use @meadia for print style.
+-If you write @meadia screen{} then your style for print and you use @meadia print{}
+then you write style for print page.
+Ex:-
+     @meaia screen{
+                  p{
+                   font-size: 20px;
+                   }
+                  }
+     @meaia print{
+                 p{
+                   color: red;
+                  }
+                 }
