@@ -1,0 +1,34 @@
+#DISPLAY PROPERTY
+
+-In html any element is look like a retrangular box andd the retrangular box now to
+ bihev the check display property.
+-Mainly this 4 Display property values are importent as follows:-
+
+i)block.
+-Volues are that, they acqupie all space ex:-div,p,h1....
+-Start in new line.
+-Take a full widht.
+-you give here height and width.
+
+ii)inline.
+-Values are  that, they take only necessry space ex:-a,img,span....
+-Not Start in new line.
+-he Do not take full width.
+-you can not give height and width here.
+
+iii)inline-block.
+-Not Start in new line.
+-he Do not take full width.
+-you give here height and width.
+
+iv)none.
+-For nathing to do.
+
+Ex:-  
+     .display{
+             border: 1px solid red;
+             width: 50%;
+             height: 100px;
+             display: inline:
+             }
+
